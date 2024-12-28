@@ -16,12 +16,11 @@ The source code includes the proposed modeling in "prop" folder and DSF modeling
 # 💬 How to Cite this Repository
 
 ```bibtex
-@article{SAMPAIO_MIGUEL_EPSR_2024,
-    title    = {Data Repository: Modeling of Smart Inverter Functions Executed by Photovoltaic Systems for Power Flow Analysis},
-    year     = {2024},
-    url      = {https://github.com/MiguelMSampaio/source-EPSR2024-paper},
-    author   = {Miguel F. Sampaio, Cristhian G. da R. de Oliveira; João B. A. London Jr.},
-    keywords = {Smart inverter functions, Power flow, Modeling, Unified approach.},
+@misc{GithubRepo,
+   author = {Miguel F. Sampaio and Cristhian G. R. Oliveira and João B. A. London},
+   title = {Modeling of smart inverter functions executed by photovoltaic systems for power flow analysis - Repository},
+   url = {https://github.com/MiguelMSampaio/source-EPSR2024-paper},
+   year = {2024},
 }
 ```
 
