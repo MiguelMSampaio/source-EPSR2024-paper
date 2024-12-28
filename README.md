@@ -1,6 +1,7 @@
 <div align="center">
     
-    Data Repository of Paper "Modeling of Smart Inverter Functions Executed by Photovoltaic Systems for Power Flow Analysis".
+    Data Repository of Paper "Modeling of Smart Inverter Functions 
+    Executed by Photovoltaic Systems for Power Flow Analysis".
     Authors: Miguel F. Sampaio, Cristhian G. da R. de Oliveira and João B. A. London Jr.
 </div>
 
